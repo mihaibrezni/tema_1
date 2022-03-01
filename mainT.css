@@ -1,0 +1,28 @@
+/* a{
+    aparent merge style-ul in 2 feluri =) 
+    text-decoration: none;
+} */
+
+.Here {
+  font: 19px, serif;
+}
+
+.animatie {
+  background-color: blue;
+  border-radius: 0.375rem;
+  display: inline-block;
+  font-size: 1.0625rem;
+  text-align: center;
+  height: 60px;
+}
+
+.animez {
+  background-color: whitesmoke;
+  border-radius: 0.375rem;
+  display: inline-block;
+  font-size: 1.0625rem;
+  text-align: center;
+  height: 60px;
+  width: 129px;
+  text-decoration: none;
+}
